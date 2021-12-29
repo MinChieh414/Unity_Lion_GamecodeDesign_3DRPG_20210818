@@ -1,2 +1,2 @@
-# Unity_LionGamecodeDesign_3DRPG_20210818
- Unity 幼獅程式設計專案3DRPG
+# Lion_3DRPG_20210818
+ Unity 幼獅程式設計專案 3D RPG 20210818
